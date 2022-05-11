@@ -1,1 +1,0 @@
-# datazeit_interview_task
