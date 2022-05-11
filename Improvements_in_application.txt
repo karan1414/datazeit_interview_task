@@ -1,0 +1,14 @@
+Improvement for the web application that was scraped:
+    - Pagination could have been dealt in a much better way.
+    - If feaseable and desireable much less data could have been scraped if the api call could have been hidden or not been accessible so easily.
+    - Better implementation of pagination using something like unlimited code might have made the side difficult to scrape.
+
+Improvement for the task:
+    - "Gets the unique product id ean. This id is not visible in the html source code and get be only accessed via reverse engineering internal api requests of the product page". 
+    Second Line makes the finding of ean much more easier.
+    - Better Framing of first question in Bonus Section.
+
+Improvements in my code:
+    - Better visualization of output data.
+    - Store out of stock in different workbook worksheet.
+    - Better documentation wording/explaination.
